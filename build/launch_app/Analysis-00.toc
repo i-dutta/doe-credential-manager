@@ -1,0 +1,486 @@
+(['C:\\Users\\idutta\\OneDrive - NSW Department of '
+  'Education\\Ipshita\\DoE_Credential_Manager_Tool\\launch_app.py'],
+ ['C:\\Users\\idutta\\OneDrive - NSW Department of '
+  'Education\\Ipshita\\DoE_Credential_Manager_Tool'],
+ [],
+ [('C:\\Users\\idutta\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_pyinstaller',
+   0),
+  ('C:\\Users\\idutta\\AppData\\Roaming\\Python\\Python312\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\idutta\\AppData\\Roaming\\Python\\Python312\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [],
+ '3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\idutta\\AppData\\Roaming\\Python\\Python312\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('launch_app',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\launch_app.py',
+   'PYSOURCE')],
+ [('zipfile',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\token.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\ast.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\Lib\\signal.py',
+   'PYMODULE')],
+ [('python312.dll',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\python312.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\libcrypto-3.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\base_library.zip',
+   'DATA')])

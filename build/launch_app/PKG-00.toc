@@ -1,0 +1,98 @@
+('C:\\Users\\idutta\\OneDrive - NSW Department of '
+ 'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\launch_app.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\idutta\\AppData\\Roaming\\Python\\Python312\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\idutta\\AppData\\Roaming\\Python\\Python312\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('launch_app',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\launch_app.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\python312.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\portable_python\\python\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\idutta\\OneDrive - NSW Department of '
+   'Education\\Ipshita\\DoE_Credential_Manager_Tool\\build\\launch_app\\base_library.zip',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
