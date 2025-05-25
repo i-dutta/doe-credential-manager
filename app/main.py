@@ -16,7 +16,7 @@ init_session_state()
 
 # --------- UI Starts ---------
 st.set_page_config(layout="wide")
-st.title("🔐 URL and Credential Manager")
+st.title("🔐 URL and Credential Manager1")
 st.markdown("<a name='notification'></a>", unsafe_allow_html=True) # Add an anchor just before the notification placeholder
 notification_placeholder = st.empty()
 
